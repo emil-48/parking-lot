@@ -1,0 +1,14 @@
+INPUTS
+clk:
+entr: 		SW1		(U18)
+exit: 		SW2 	(T19)
+
+override: 	Dip1 	(U17)
+reset: 		Dip2 	(Y16)
+start: 		Dip3 	(R17)
+stop: 		Dip8 	(AA19)
+
+OUTPUTS
+closed: LED1 (T18)
+full: 	LED2 (V17)
+open: 	LED3 (U20)
